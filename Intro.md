@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @mi-huynhh
-- 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on data analytics or research projects
-- 📫 How to reach me (https://www.linkedin.com/in/mi-huynh/)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I own all Pokemon games on the DS
+- In the Mobile Data and MPG Analytics, you can view my graphs 📊
+- that I created for the 'mobile data' data set
+- and the 'mpg' dataset in the library(ggplot2)
+- I've also attached my code for repeatability ✨
 
 <!---
 mi-huynhh/mi-huynhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
